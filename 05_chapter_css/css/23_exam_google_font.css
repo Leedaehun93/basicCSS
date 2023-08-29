@@ -1,0 +1,19 @@
+/* h1 */
+@import url("https://fonts.googleapis.com/css2?family=Diphylleia&family=Moirai+One&family=Nanum+Pen+Script&display=swap");
+
+/* p */
+@import url("https://fonts.googleapis.com/css2?family=Diphylleia&family=Nanum+Pen+Script&display=swap");
+
+h1 {
+  /* 글자 중앙 정렬 */
+  text-align: center;
+  /* 구글 웹 폰트 */
+  font-family: "Moirai One", cursive;
+}
+
+p {
+  /* 글자 중앙 정렬 */
+  text-align: center;
+  /* 구글 웹 폰트 */
+  font-family: "Diphylleia", serif;
+}

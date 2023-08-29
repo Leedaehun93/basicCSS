@@ -1,0 +1,33 @@
+/* 여백 초기화 */
+* {
+  padding: 0;
+  margin: 0;
+}
+
+/* 전체 페이지 */
+#page {
+  /* 가로 */
+  width: 1140px;
+  /* 세로 */
+  height: 100px;
+  /* 중앙 정렬 */
+  margin: 0 auto;
+  /* 임시 */
+  /* background-color: beige; */
+}
+
+
+
+#contents{
+    background-color: rgb(84, 53, 156);
+}
+
+
+#sub_menu {
+  clear: both;
+  background-color: rgb(111, 170, 43);
+}
+
+#main_img {
+  background-imge: url(../img/main_img.png);
+}
